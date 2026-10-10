@@ -2,8 +2,7 @@
 
 专为 **https://newapi.chinahk.qzz.io** 开发的自动签到脚本。
 
-仅支持**账号密码**认证（通过环境变量 `NEWAPI_ACCOUNTS` 配置，无需 Session Cookie / 系统访问令牌）。
-该站点强制 Turnstile 人机验证，脚本会自动启动真实浏览器解验证完成登录与签到，全程无需人工操作。
+**账号密码**认证
 
 ## 功能
 
